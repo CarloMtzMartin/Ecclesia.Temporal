@@ -7,3 +7,10 @@ body {
     background-size: 100% 100%;
     background-position: right bottom;
 }
+
+#credits {
+	position: fixed;
+    bottom: 0;
+    right: 0;
+	color: gray;
+}
